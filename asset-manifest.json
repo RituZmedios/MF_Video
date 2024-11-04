@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MF_Video/static/css/main.3be7f9c3.css",
+    "main.js": "/MF_Video/static/js/main.ff29ae37.js",
+    "static/js/453.f5d7d505.chunk.js": "/MF_Video/static/js/453.f5d7d505.chunk.js",
+    "index.html": "/MF_Video/index.html",
+    "main.3be7f9c3.css.map": "/MF_Video/static/css/main.3be7f9c3.css.map",
+    "main.ff29ae37.js.map": "/MF_Video/static/js/main.ff29ae37.js.map",
+    "453.f5d7d505.chunk.js.map": "/MF_Video/static/js/453.f5d7d505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be7f9c3.css",
+    "static/js/main.ff29ae37.js"
+  ]
+}
